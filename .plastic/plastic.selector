@@ -1,0 +1,4 @@
+repository "FPS射击游戏@ssl://hyhol@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/18319215386" 
+     
